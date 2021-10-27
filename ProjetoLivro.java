@@ -21,7 +21,7 @@ public class ProjetoLivro {
 		
 		l[1].abrir();
 		l[1].folhear(800);
-		
+		p[1].fazerAniver();
 		System.out.println(l[1].detalhes());
 	}
 
